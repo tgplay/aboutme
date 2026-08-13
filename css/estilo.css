@@ -82,9 +82,6 @@ html, body {
   }
   
   #sobre-mim {
-    background-image: url('../assets/android-kotlin-lovers.png');
-    background-repeat: no-repeat;
-    background-size: cover;
     padding: 2em;
   }
   
